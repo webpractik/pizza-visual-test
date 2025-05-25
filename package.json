@@ -1,0 +1,24 @@
+{
+  "name": "pizza-visual-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webpractik/pizza-visual-test.git"
+  },
+  "keywords": ["playwright"],
+  "author": "Pavel Vorobiev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webpractik/pizza-visual-test/issues"
+  },
+  "homepage": "https://github.com/webpractik/pizza-visual-test#readme",
+  "dependencies": {
+    "@playwright/test": "^1.52.0"
+  }
+}
